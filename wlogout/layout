@@ -1,6 +1,6 @@
 {
     "label" : "lock",
-    "action" : "swaylock",
+    "action" : "gtklock -d -s ~/.config/gtklock/style.css -H -S",
     "text" : "Lock",
     "keybind" : "l"
 }
